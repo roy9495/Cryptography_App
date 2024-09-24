@@ -17,5 +17,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-This app encrypts using 'MD5', 'SHA1', 'SHA256', 'SHA512', 'CRC32', 'AES' hashes
+This app encrypts using 'MD5', 'SHA1', 'SHA256', 'SHA512', 'CRC32', 'AES' hashes<br>
 Though decryption only supports for AES
