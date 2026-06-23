@@ -1,8 +1,8 @@
-# 🔒 CipherForge - Secure Cryptography Suite
+#  CipherForge - Secure Cryptography Suite
 
 CipherForge is a formalized, standardized, and modern cryptography suite built using React and Material-UI. It provides a comprehensive set of client-side cryptographic utilities, from symmetric ciphers and asymmetric key generation to file encryption and real-time encoding translators.
 
-## 🚀 Features
+##  Features
 
 ### 1. Symmetric Cryptography
 - **Algorithms:** AES, DES, TripleDES, RC4, Rabbit
@@ -30,7 +30,7 @@ CipherForge is a formalized, standardized, and modern cryptography suite built u
 
 ---
 
-## 🛡️ Security Architecture
+##  Security Architecture
 CipherForge is engineered with privacy and standards in mind:
 - **W3C SubtleCrypto:** Standardized native Web Cryptography API guarantees hardware-accelerated, secure, and modern cryptographic operations.
 - **100% Local Sandbox:** No data, keys, files, or plaintexts are ever sent to any remote server. Everything runs directly inside your browser sandbox.
@@ -38,7 +38,7 @@ CipherForge is engineered with privacy and standards in mind:
 
 ---
 
-## 🛠️ Developer Setup
+##  Developer Setup
 
 ### Prerequisites
 - Node.js (v18.0.0 or higher)
